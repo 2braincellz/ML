@@ -1,0 +1,23 @@
+model.predict automatically converts predictions back to original scale
+
+Machine Learning Procedure
+
+1. Select a Performance Measure
+2. Take a look at data
+3. Create a Test Select
+4. Explore and Visualize the Data to Gain Insights
+5. Look for Correlations (corr_matrix and scatter_matrix)
+6. Experiment with Attribute Combinations
+7. Prepare the Data
+8. Clean the Data (Imputers)
+9. Text and Categorical Attributes
+10. Feature Scaling and Transformation
+11. Custom Transformers(FunctionTransformer())
+12. Transformation Pipelines
+13. Train and Evaluate on the Training Select
+14. Cross Validation
+15. Grid Search Randomized Search
+
+# Papers
+
+https://sebastianraschka.com/blog/2023/llm-reading-list.html
